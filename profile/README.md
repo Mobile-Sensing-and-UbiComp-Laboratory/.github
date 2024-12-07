@@ -7,7 +7,7 @@
   </div>
 </div>
 
-### :man_technologist: About :
-This is a group of AI-for-Health researchers led by <a href="https://www.tauhidurrahman.com/" target="_blank">Prof. Tauhidur Rahman</a>, affiliated at <a href="https://datascience.ucsd.edu/" target="_blank">Halıcıoğlu Data Science Institute</a> at the <a href="https://ucsd.edu/" target="_blank">University of California San Diego</a>. Our research focuses on building novel ubiquitous and mobile health sensing technologies that capture observable low-level physical signals in the form of an acoustic and electromagnetic wave from our bodies and surrounding environments and map them to relevant biological and behavioral measurements. 
+### :man_technologist: About us:
+We are a group of AI-for-Health researchers led by <a href="https://www.tauhidurrahman.com/" target="_blank">Prof. Tauhidur Rahman</a>, affiliated at <a href="https://datascience.ucsd.edu/" target="_blank">Halıcıoğlu Data Science Institute</a> at the <a href="https://ucsd.edu/" target="_blank">University of California San Diego</a>. Our research focuses on building novel ubiquitous and mobile health sensing technologies that capture observable low-level physical signals in the form of an acoustic and electromagnetic wave from our bodies and surrounding environments and map them to relevant biological and behavioral measurements. 
 
 ---
