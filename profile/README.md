@@ -1,9 +1,9 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="365"/>
   <h1>
   Hi, Welcome to <a href="https://amolharsh.github.io/MosaicLab.github.io/home.html">Mobile Sensing and UbiComp Laboratory</a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
+  <img src="https://github.com/Mobile-Sensing-and-UbiComp-Laboratory/.github/blob/main/welcome-img.jpg" width="1024"/>
   </div>
 </div>
 
