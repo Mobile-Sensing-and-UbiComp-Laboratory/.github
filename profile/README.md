@@ -3,7 +3,6 @@
   Hi, Welcome to <a href="https://mosaic-laboratory.github.io/">Mobile Sensing and UbiComp Laboratory</a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  <p>(website in development)</p>
   <img src="https://github.com/Mobile-Sensing-and-UbiComp-Laboratory/.github/blob/main/welcome-img.png" width="1024"/>
   </div>
 </div>
